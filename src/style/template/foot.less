@@ -1,0 +1,28 @@
+@import '../variable.less';
+.foot{
+	border-top: 1px solid #ccc;
+	list-style: none;
+	padding: 0;
+	margin:0;
+	position: fixed;
+	bottom: 0;
+	.h(60);
+	.lh(60);
+	left: 0;
+	right: 0;
+	font-size: 0;
+	background-color: @bgWhite;
+	li{
+		.fs(18);
+		width: 33%;
+		.d-ib();
+		.ta-c();
+		color: #999;
+		&.select{
+			.fa-list{
+				color:@warnColor;
+			}
+			color: @warnColor;
+		}
+	}
+}

@@ -1,0 +1,958 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"ngcl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ngi",
+				"ng-init\tAngularJS"
+			],
+			[
+				"roo",
+				"$rootScope\tAngularJS"
+			],
+			[
+				"ngre",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"ngc",
+				"ng-controller\tAngularJS"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"todo",
+				"todoList"
+			],
+			[
+				"s",
+				"slogan.png\tw:376 h:50"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"bagc",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"backgc",
+				"background-color"
+			],
+			[
+				"ta",
+				"task7.js"
+			],
+			[
+				"addEv",
+				"addEvent"
+			],
+			[
+				"appe",
+				"appendChild"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tras",
+				"translate()"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"onc",
+				"_onCancel"
+			],
+			[
+				"_on",
+				"_onCancel"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"ht",
+				"html2node"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"hide",
+				"hideMask"
+			],
+			[
+				"borb",
+				"border-box"
+			],
+			[
+				"cu",
+				"currentDeg"
+			],
+			[
+				"boxs",
+				"box-shadow"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"bordb",
+				"border-box"
+			],
+			[
+				"reT",
+				"resToInt"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"cl",
+				"clearInterval"
+			],
+			[
+				"move",
+				"moveHotList"
+			],
+			[
+				"offs",
+				"offsetHeight"
+			],
+			[
+				"off",
+				"offsetHeight"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"png",
+				"peopleIcon.png\tw:14 h:17"
+			],
+			[
+				"pgn",
+				"peopleIcon.png\tw:14 h:17"
+			],
+			[
+				"tex",
+				"text-overflow"
+			],
+			[
+				"wra",
+				"nowrap"
+			],
+			[
+				"hotlis",
+				"hotlistLi"
+			],
+			[
+				"hotl",
+				"hotlistLi"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"ho",
+				"hotlist"
+			],
+			[
+				"clo",
+				"closevideo.png\tw:23 h:22"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"v",
+				"video.png\tw:189 h:125"
+			],
+			[
+				"oP",
+				"oPrev"
+			],
+			[
+				"o",
+				"oPage"
+			],
+			[
+				"on",
+				"oNext"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"pagen",
+				"pagenav"
+			],
+			[
+				"getElements",
+				"getElementsByClassName"
+			],
+			[
+				"du",
+				"document"
+			],
+			[
+				"hol",
+				"holder"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"change",
+				"changeSize"
+			],
+			[
+				"innt",
+				"innerHTML"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pe",
+				"peopleIcon.png\tw:14 h:17"
+			],
+			[
+				"onm",
+				"onmouseover"
+			],
+			[
+				"order",
+				"orderLi"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"tan",
+				"translateZ()"
+			],
+			[
+				"tansl",
+				"translateX()"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"we",
+				"微专业WEB前端开发作业/"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ver",
+				"verticalLine.png\tw:1 h:18"
+			],
+			[
+				"borderh",
+				"border-width"
+			],
+			[
+				"dir",
+				"direct"
+			],
+			[
+				"curren",
+				"currentPos"
+			],
+			[
+				"nex",
+				"nextPosition"
+			],
+			[
+				"at",
+				"aTr"
+			],
+			[
+				"bos",
+				"border-spacing"
+			],
+			[
+				"borderb",
+				"border-box"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"coll",
+				"collegeSelect"
+			],
+			[
+				"cit",
+				"citySelect"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"INP",
+				"inputField"
+			],
+			[
+				"prev",
+				"prevPass"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"cha",
+				"charCodeAt"
+			],
+			[
+				"inpu",
+				"inputField"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"inp",
+				"oInput3"
+			],
+			[
+				"help",
+				"helpText"
+			],
+			[
+				"hel",
+				"helpText"
+			],
+			[
+				"inser",
+				"insertionSort"
+			],
+			[
+				"inse",
+				"insertAfter\t.insertAfter()"
+			],
+			[
+				"right",
+				"rightout"
+			],
+			[
+				"left",
+				"leftout"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"aqi",
+				"aqiData"
+			],
+			[
+				"boc",
+				"border-collapse"
+			],
+			[
+				"file",
+				"file_active.png\tw:11 h:12"
+			],
+			[
+				"fol",
+				"foldermain.png\tw:12 h:12"
+			],
+			[
+				"ri",
+				"right.png\tw:7 h:12"
+			],
+			[
+				"fold",
+				"folderactive.png\tw:12 h:12"
+			],
+			[
+				"oac",
+				"opacity"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"lst",
+				"list-style"
+			],
+			[
+				"bob",
+				"border-box"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"bosx",
+				"box-sizing"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"app",
+				"-webkit-appearance"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"tablec",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p c",
+		"selected_items":
+		[
+			[
+				"p c",
+				"Package Control: Install Package"
+			],
+			[
+				"ssang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"s s",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssle",
+				"Set Syntax: LESS"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s s j s",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s s c s",
+				"Set Syntax: CSS3"
+			],
+			[
+				"s sh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS3"
+			],
+			[
+				"s s c",
+				"Set Syntax: CSS3"
+			],
+			[
+				"SSC",
+				"Set Syntax: CSS3"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"SSH",
+				"Set Syntax: HTML"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"SSJS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chenhaotang/Desktop/webapp"
+	],
+	"file_history":
+	[
+		"/Users/chenhaotang/Desktop/webapp/gulpfile.js",
+		"/Users/chenhaotang/Desktop/webapp/package.json",
+		"/Users/chenhaotang/Desktop/webapp/bower.json",
+		"/Users/chenhaotang/Desktop/Angular/form.html",
+		"/Users/chenhaotang/Desktop/Angular/shoppinglist.html",
+		"/Users/chenhaotang/Desktop/Angular/test.html",
+		"/Users/chenhaotang/Desktop/test.html",
+		"/Users/chenhaotang/Desktop/sample_project/src/Js/test.js",
+		"/Users/chenhaotang/Desktop/sample_project/src/test.html",
+		"/Users/chenhaotang/Desktop/sample_project/src/test.js",
+		"/Users/chenhaotang/Desktop/sample_project/test.js",
+		"/Users/chenhaotang/Desktop/sample_project/Gruntfile.js",
+		"/Users/chenhaotang/Desktop/sample_project/node_modules/grunt-legacy-util/Gruntfile.js",
+		"/Users/chenhaotang/Desktop/sample_project/package.json",
+		"/Users/chenhaotang/node_modules/grunt-contrib-uglify/package.json",
+		"/Users/chenhaotang/node_modules/grunt-legacy-util/Gruntfile.js",
+		"/Users/chenhaotang/Desktop/sina_less/style/common.less",
+		"/Users/chenhaotang/Desktop/sina_less/index.html",
+		"/Users/chenhaotang/Desktop/sina_less/style/common.css",
+		"/Users/chenhaotang/Desktop/js练习/move.html",
+		"/Users/chenhaotang/Desktop/已封装的函数/test.html",
+		"/Users/chenhaotang/Desktop/已封装的函数/getStyle.js",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/task7/task7.css",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/task7/task7.js",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/task7/task7.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/task6.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/task#6.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/task#6.js",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/task6.js",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/任务六.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/任务六.js",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务六/任务六.css",
+		"/Users/chenhaotang/Desktop/AngularJs.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务四/任务四.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务五/任务四.html",
+		"/Users/chenhaotang/Desktop/Netease/style.css",
+		"/Users/chenhaotang/Desktop/Netease/util.js",
+		"/Users/chenhaotang/Desktop/Netease/md5.js",
+		"/Users/chenhaotang/Desktop/已封装的函数/数组去重.js",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/source/js/src/algolia-search.js",
+		"/Users/chenhaotang/Desktop/Netease/Netease.js",
+		"/Users/chenhaotang/Desktop/Netease/Netease.html",
+		"/Users/chenhaotang/Desktop/ife2017/小薇学院/任务九/任务九.css",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务三/任务三.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务二/任务二.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务二/任务一.html",
+		"/Users/chenhaotang/Desktop/ife2017/耀耀学院/任务一/任务一.html",
+		"/Users/chenhaotang/Desktop/ife2017/javascript/任务五/任务五.html",
+		"/Users/chenhaotang/Desktop/ife2017/javascript/任务五/任务四.html",
+		"/Users/chenhaotang/Desktop/ife2017/javascript/任务四/任务四.html",
+		"/Users/chenhaotang/Desktop/ife2017/javascript/任务三/任务三.html",
+		"/Users/chenhaotang/Desktop/ife2017/javascript/任务二/任务二.html",
+		"/Users/chenhaotang/Desktop/ife2017/javascript/任务一/任务一.html",
+		"/Users/chenhaotang/Desktop/ife2017/html+css/任务九/任务九.html",
+		"/Users/chenhaotang/PokemonGo-Bot/configs/config.json",
+		"/Users/chenhaotang/PokemonGo-Bot/run.sh",
+		"/Users/chenhaotang/PokemonGo-Bot/configs/auth.json",
+		"/Users/chenhaotang/Desktop/ife2017/html+css/任务九/任务九.css",
+		"/Users/chenhaotang/Desktop/ife2017/html+css/任务八.css",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务八.css",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务七.css",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务六.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务五.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务四.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务三.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务二.css",
+		"/Users/chenhaotang/Desktop/ife2017/html+css/任务二.css",
+		"/Users/chenhaotang/Desktop/baidu/ife2017/任务一.html",
+		"/Users/chenhaotang/Desktop/baidu/任务一.html",
+		"/Users/chenhaotang/Desktop/页面架构_多列布局.html",
+		"/Users/chenhaotang/Desktop/页面架构_居中布局.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task19/task19.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task18/task18.html",
+		"/Users/chenhaotang/Desktop/TravellingWorld/homepage.html",
+		"/Users/chenhaotang/Desktop/精通JavaScript开发练习/DOM高级1.html",
+		"/Users/chenhaotang/Desktop/精通JavaScript开发练习/DOM操作应用.html",
+		"/Users/chenhaotang/Desktop/精通JavaScript开发练习/DOM基础.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task17/test.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task17/task17.css",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task17/task17.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task17/test.js",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task17/task17.js",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task17/test.css",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task16/test.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task16/test.js",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task16/task.js",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task15/task15.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task14/task14.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task13/task13.html",
+		"/Users/chenhaotang/Desktop/baidu/ife2016/task13/untitled.html",
+		"/Users/chenhaotang/Desktop/baidu/task0001/index.html",
+		"/Users/chenhaotang/Desktop/baidu/task0001/blog.html",
+		"/Users/chenhaotang/Desktop/baidu/task0001/css/style.css",
+		"/Users/chenhaotang/Desktop/baidu/task0001/gallery.html",
+		"/Users/chenhaotang/task0001/css/style.css",
+		"/Users/chenhaotang/task0001/index.html",
+		"/Users/chenhaotang/Desktop/test1.html",
+		"/Users/chenhaotang/Desktop/面向对象/选项卡.html",
+		"/Users/chenhaotang/Desktop/面向对象/闭包的功能-封装.js",
+		"/Users/chenhaotang/Desktop/面向对象/闭包的功能-保存函数执行状态.js",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/_config.yml",
+		"/Users/chenhaotang/Desktop/hexo/_config.yml",
+		"/Users/chenhaotang/Desktop/hexo/public/index.html",
+		"/Users/chenhaotang/Desktop/hexo/source/_posts/Create-your-own-blog-with-Hexo-Github.md",
+		"/Users/chenhaotang/Desktop/hexo/scaffolds/post.md",
+		"/Users/chenhaotang/Desktop/hexo/source/_posts/Create your own blog with Hexo&Github.md",
+		"/Users/chenhaotang/Desktop/hexo/source/_posts/我爱老婆.md",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/README.md",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/bower.json",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/test/helpers.js",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/package.json",
+		"/Users/chenhaotang/Desktop/hexo/themes/next/languages/default.yml",
+		"/Users/chenhaotang/Desktop/hexo/source/CNAME",
+		"/Users/chenhaotang/.ssh/id_rsa.pub",
+		"/Users/chenhaotang/Desktop/project/个人网站/article1.html",
+		"/Users/chenhaotang/Desktop/project/个人网站/oaxaca.html",
+		"/Users/chenhaotang/Desktop/project/个人网站/homepage.html",
+		"/Users/chenhaotang/Desktop/project/个人网站/css/style.css",
+		"/Users/chenhaotang/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/chenhaotang/Desktop/project/模仿网站/infomation.html",
+		"/Users/chenhaotang/Desktop/project/code/css/style.css",
+		"/Users/chenhaotang/Desktop/project/code/about.html",
+		"/Users/chenhaotang/Desktop/project/code/case.html",
+		"/Users/chenhaotang/Desktop/project/code/infomation.html",
+		"/Users/chenhaotang/Desktop/project/code/index.html",
+		"/Users/chenhaotang/Downloads/属性操作/test.html",
+		"/Users/chenhaotang/Downloads/demo1.html",
+		"/Users/chenhaotang/Downloads/属性操作/4.dataset.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"length",
+			"loginBtn",
+			"followBtn",
+			"follow",
+			"closed",
+			"out",
+			"outer",
+			".hot",
+			"closed",
+			"div",
+			"span",
+			"Div",
+			"adi",
+			"active",
+			"index",
+			"console",
+			"prev",
+			"next",
+			"margin-left",
+			"length",
+			"followed",
+			";\n",
+			"length",
+			"beijing",
+			"className",
+			"btnHandle",
+			"length",
+			"margin-left",
+			"lg",
+			"length",
+			"title",
+			"text",
+			"-->\n",
+			"data",
+			"bd",
+			"index",
+			"auto",
+			"layout",
+			"title",
+			"avatar",
+			"lang",
+			"langu",
+			"archiv",
+			"startsei",
+			"hexo",
+			"feed",
+			"font",
+			"text",
+			"<h4>",
+			"<img ",
+			"block\">",
+			".jpg",
+			"2",
+			"png",
+			"405px",
+			";}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webapp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

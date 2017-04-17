@@ -1,0 +1,65 @@
+@import 'template/head.less';
+@import 'property.less';
+@import 'template/foot.less';
+@import 'template/positionList.less';
+
+.fs(@px){
+	font-size: unit(@px / 41.4, rem)
+}
+
+.w(@px){
+	width: unit(@px / 41.4, rem)
+}
+
+.h(@px){
+	height: unit(@px / 41.4, rem)
+}
+
+.lh(@px){
+	line-height: unit(@px / 41.4, rem)
+}
+
+.mt(@px){
+	margin-top : unit(@px / 41.4, rem)
+}
+
+.mr(@px){
+	margin-right : unit(@px / 41.4, rem)
+}
+
+.mb(@px){
+	margin-bottom:  unit(@px / 41.4, rem)
+}
+
+.ml(@px){
+	margin-left: unit(@px / 41.4, rem)
+}
+
+.pt(@px){
+	padding-top : unit(@px / 41.4, rem)
+}
+
+.pr(@px){
+	padding-right : unit(@px / 41.4, rem)
+}
+
+.pb(@px){
+	padding-bottom:  unit(@px / 41.4, rem)
+}
+
+.pl(@px){
+	padding-left: unit(@px / 41.4, rem)
+}
+
+html,body{
+	font-family: Helvetica;
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	.fs(16);
+	background-color: @bodyBgColor;
+}

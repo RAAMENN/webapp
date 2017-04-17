@@ -1,0 +1,25 @@
+{
+  "name": "webapp",
+  "homepage": "https://github.com/RAAMENN/webapp",
+  "authors": [
+    "raamenn <raamenn92@gmail.com>"
+  ],
+  "description": "angularjs webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "ui-router#^0.4.2",
+    "components-font-awesome": "^4.7.0"
+  }
+}
