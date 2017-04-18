@@ -98,6 +98,88 @@
 .position-list .item .text {
   margin: 0;
 }
+.head {
+  color: #fff;
+}
+.head .fa-chevron-left {
+  color: #fff;
+  float: left;
+  line-height: 1.20772947rem;
+  width: 0.72463768rem;
+}
+.head .title {
+  text-align: center;
+}
+.bottom-btn {
+  position: fixed;
+  height: 1.08695652rem;
+  background-color: #5670a7;
+  width: 100%;
+  border: none;
+  color: #fff;
+  font-size: 0.36231884rem;
+  bottom: 0;
+}
+.position-desc {
+  margin-top: 10px;
+  background: #fff;
+}
+.position-desc h5 {
+  margin-top: 0;
+  padding-left: 10px;
+  height: 0.96618357rem;
+  line-height: 0.96618357rem;
+  font-size: 0.38647343rem;
+  border-bottom: 1px solid #ccc;
+}
+.position-desc pre {
+  padding-left: 10px;
+  text-align: left;
+}
+.position-info {
+  padding: 20px 10px 18px;
+  background-color: #fff;
+  margin: 0;
+  font-size: 0.41062802rem;
+  position: relative;
+}
+.position-info p {
+  display: table-row;
+  line-height: 0.96618357rem;
+}
+.position-info span {
+  display: table-cell;
+  width: 140px;
+}
+.position-info .ml {
+  margin-left: 40px;
+}
+.position-info .red {
+  color: #e64c46;
+}
+.position-info i {
+  position: absolute;
+  top: 22px;
+  right: 50px;
+}
+.position-info .fa-star-o,
+.position-info .fa-star {
+  color: #5670a7;
+}
+.company-info {
+  background: #fff;
+  margin: 0;
+  padding: 20px 13px 15px 80px;
+  border-top: 1px solid #ccc;
+  position: relative;
+  height: 1.44927536rem;
+}
+.company-info img {
+  position: absolute;
+  width: 1.44927536rem;
+  height: 1.44927536rem;
+  left: 15px;
+}
 html,
 body {
   font-family: Helvetica;

@@ -4,8 +4,40 @@
 		"selected_items":
 		[
 			[
+				"t",
+				"table-row"
+			],
+			[
 				"bo",
-				"bower_components/"
+				"border"
+			],
+			[
+				"poi",
+				"positionInfo.less"
+			],
+			[
+				"posi",
+				"position.less"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"head",
+				"headBar.less"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"bacgc",
+				"background-color"
 			],
 			[
 				"ngcl",
@@ -72,16 +104,8 @@
 				"appendChild"
 			],
 			[
-				"bot",
-				"bottom"
-			],
-			[
 				"tras",
 				"translate()"
-			],
-			[
-				"t",
-				"transform"
 			],
 			[
 				"fons",
@@ -490,35 +514,46 @@
 			[
 				"bacc",
 				"background-color"
-			],
-			[
-				"border-b",
-				"border-box"
-			],
-			[
-				"bosx",
-				"box-sizing"
-			],
-			[
-				"fos",
-				"font-size"
-			],
-			[
-				"app",
-				"-webkit-appearance"
-			],
-			[
-				"tab",
-				"table-row"
-			],
-			[
-				"tablec",
-				"table-cell"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/style/index.less",
+			"settings":
+			{
+				"buffer_size": 992,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/view/position.html",
+			"settings":
+			{
+				"buffer_size": 230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/style/template/position.less",
+			"settings":
+			{
+				"buffer_size": 348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/style/property.less",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,10 +562,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "p c",
+		"height": 321.0,
+		"last_filter": "p ci",
 		"selected_items":
 		[
+			[
+				"p ci",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ssa",
+				"Set Syntax: HTML (Angular.js)"
+			],
 			[
 				"p c",
 				"Package Control: Install Package"
@@ -540,20 +591,12 @@
 				"Set Syntax: HTML (Angular.js)"
 			],
 			[
-				"pci",
-				"Package Control: Install Package"
-			],
-			[
 				"s s",
 				"Set Syntax: HTML"
 			],
 			[
 				"ssht",
 				"Set Syntax: HTML"
-			],
-			[
-				"ssjs",
-				"Set Syntax: JavaScript"
 			],
 			[
 				"ssle",
@@ -624,7 +667,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 507.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -645,11 +688,59 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/chenhaotang/Desktop/webapp"
+		"/Users/chenhaotang/Desktop/webapp",
+		"/Users/chenhaotang/Desktop/webapp/bower_components/angular-ui-router/release",
+		"/Users/chenhaotang/Desktop/webapp/build/css",
+		"/Users/chenhaotang/Desktop/webapp/build/vendor/angular-ui-router",
+		"/Users/chenhaotang/Desktop/webapp/build/vendor/angular-ui-router/release",
+		"/Users/chenhaotang/Desktop/webapp/src",
+		"/Users/chenhaotang/Desktop/webapp/src/script",
+		"/Users/chenhaotang/Desktop/webapp/src/script/config",
+		"/Users/chenhaotang/Desktop/webapp/src/script/controller",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive",
+		"/Users/chenhaotang/Desktop/webapp/src/style",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template",
+		"/Users/chenhaotang/Desktop/webapp/src/view",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template"
 	],
 	"file_history":
 	[
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/company.less",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive/company.js",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template/company.html",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive/positionInfo.js",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/headBar.less",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/positionInfo.less",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template/positionInfo.html",
+		"/Users/chenhaotang/Desktop/webapp/src/style/variable.less",
+		"/Users/chenhaotang/Desktop/webapp/src/style/index.less",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive/headbar.js",
+		"/Users/chenhaotang/Desktop/webapp/src/view/position.html",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/position.less",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template/headBar.html",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/foot.less",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive/head.js",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template/positionList.html",
+		"/Users/chenhaotang/Desktop/webapp/src/script/controller/positionCtrl.js",
+		"/Users/chenhaotang/Desktop/webapp/src/script/config/router.js",
+		"/Users/chenhaotang/Desktop/webapp/src/script/controller/mainCtrl.js",
+		"/Users/chenhaotang/Desktop/webapp/src/view/main.html",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive/positionList.js",
+		"/Users/chenhaotang/Desktop/webapp/src/style/property.less",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/positionList.less",
+		"/Users/chenhaotang/Desktop/webapp/src/script/directive/foot.js",
+		"/Users/chenhaotang/Desktop/webapp/src/index.html",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template/foot.html",
 		"/Users/chenhaotang/Desktop/webapp/gulpfile.js",
+		"/Users/chenhaotang/Desktop/webapp/src/view/template/head.html",
+		"/Users/chenhaotang/Desktop/webapp/src/style/template/head.less",
+		"/Users/chenhaotang/Desktop/webapp/build/css/index.css",
+		"/Users/chenhaotang/Desktop/webapp/src/script/app.js",
+		"/Users/chenhaotang/Desktop/webapp/src/script/config/router",
+		"/Users/chenhaotang/Desktop/webapp/src/style/1.less",
+		"/Users/chenhaotang/Desktop/webapp/src/script/1.js",
+		"/Users/chenhaotang/Desktop/webapp/src/script/2.js",
+		"/Users/chenhaotang/Desktop/webapp/src/data/1.json",
 		"/Users/chenhaotang/Desktop/webapp/package.json",
 		"/Users/chenhaotang/Desktop/webapp/bower.json",
 		"/Users/chenhaotang/Desktop/Angular/form.html",
@@ -741,42 +832,7 @@
 		"/Users/chenhaotang/Desktop/baidu/ife2016/task13/untitled.html",
 		"/Users/chenhaotang/Desktop/baidu/task0001/index.html",
 		"/Users/chenhaotang/Desktop/baidu/task0001/blog.html",
-		"/Users/chenhaotang/Desktop/baidu/task0001/css/style.css",
-		"/Users/chenhaotang/Desktop/baidu/task0001/gallery.html",
-		"/Users/chenhaotang/task0001/css/style.css",
-		"/Users/chenhaotang/task0001/index.html",
-		"/Users/chenhaotang/Desktop/test1.html",
-		"/Users/chenhaotang/Desktop/面向对象/选项卡.html",
-		"/Users/chenhaotang/Desktop/面向对象/闭包的功能-封装.js",
-		"/Users/chenhaotang/Desktop/面向对象/闭包的功能-保存函数执行状态.js",
-		"/Users/chenhaotang/Desktop/hexo/themes/next/_config.yml",
-		"/Users/chenhaotang/Desktop/hexo/_config.yml",
-		"/Users/chenhaotang/Desktop/hexo/public/index.html",
-		"/Users/chenhaotang/Desktop/hexo/source/_posts/Create-your-own-blog-with-Hexo-Github.md",
-		"/Users/chenhaotang/Desktop/hexo/scaffolds/post.md",
-		"/Users/chenhaotang/Desktop/hexo/source/_posts/Create your own blog with Hexo&Github.md",
-		"/Users/chenhaotang/Desktop/hexo/source/_posts/我爱老婆.md",
-		"/Users/chenhaotang/Desktop/hexo/themes/next/README.md",
-		"/Users/chenhaotang/Desktop/hexo/themes/next/bower.json",
-		"/Users/chenhaotang/Desktop/hexo/themes/next/test/helpers.js",
-		"/Users/chenhaotang/Desktop/hexo/themes/next/package.json",
-		"/Users/chenhaotang/Desktop/hexo/themes/next/languages/default.yml",
-		"/Users/chenhaotang/Desktop/hexo/source/CNAME",
-		"/Users/chenhaotang/.ssh/id_rsa.pub",
-		"/Users/chenhaotang/Desktop/project/个人网站/article1.html",
-		"/Users/chenhaotang/Desktop/project/个人网站/oaxaca.html",
-		"/Users/chenhaotang/Desktop/project/个人网站/homepage.html",
-		"/Users/chenhaotang/Desktop/project/个人网站/css/style.css",
-		"/Users/chenhaotang/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-		"/Users/chenhaotang/Desktop/project/模仿网站/infomation.html",
-		"/Users/chenhaotang/Desktop/project/code/css/style.css",
-		"/Users/chenhaotang/Desktop/project/code/about.html",
-		"/Users/chenhaotang/Desktop/project/code/case.html",
-		"/Users/chenhaotang/Desktop/project/code/infomation.html",
-		"/Users/chenhaotang/Desktop/project/code/index.html",
-		"/Users/chenhaotang/Downloads/属性操作/test.html",
-		"/Users/chenhaotang/Downloads/demo1.html",
-		"/Users/chenhaotang/Downloads/属性操作/4.dataset.html"
+		"/Users/chenhaotang/Desktop/baidu/task0001/css/style.css"
 	],
 	"find":
 	{
@@ -794,6 +850,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"span",
+			"li",
+			"margin",
+			"m",
+			"$urlRouterProvider",
+			"$stateProvider",
 			"5",
 			"length",
 			"loginBtn",
@@ -868,8 +930,131 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/style/index.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"git_gutter_enabled": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/view/position.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"git_gutter_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/style/template/position.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"git_gutter_enabled": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/style/property.less",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"git_gutter_enabled": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -950,7 +1135,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 265.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
