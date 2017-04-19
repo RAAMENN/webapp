@@ -121,11 +121,10 @@
   bottom: 0;
 }
 .position-desc {
-  margin-top: 10px;
   background: #fff;
 }
 .position-desc h5 {
-  margin-top: 0;
+  margin-top: 10px;
   padding-left: 10px;
   height: 0.96618357rem;
   line-height: 0.96618357rem;
@@ -134,6 +133,7 @@
 }
 .position-desc pre {
   padding-left: 10px;
+  padding-bottom: 20px;
   text-align: left;
 }
 .position-info {
@@ -169,7 +169,7 @@
 .company-info {
   background: #fff;
   margin: 0;
-  padding: 20px 13px 15px 80px;
+  padding: 10px 13px 10px 75px;
   border-top: 1px solid #ccc;
   position: relative;
   height: 1.44927536rem;
@@ -178,7 +178,45 @@
   position: absolute;
   width: 1.44927536rem;
   height: 1.44927536rem;
-  left: 15px;
+  left: 10px;
+}
+.position-class {
+  background: #fff;
+  padding: 0px;
+  margin: 0;
+  border-top: 1px solid #ccc;
+}
+.position-class h5 {
+  margin: 10px 10px 20px;
+  font-size: 0.38647343rem;
+}
+.position-class button {
+  background-color: #fff;
+  color: #5670a7;
+  outline: none;
+  border: 1px solid #5670a7;
+  border-radius: 20px;
+  font-size: 0.33816425rem;
+  margin: 0 10px;
+  padding: 5px 10px;
+}
+.position-class button.active {
+  background-color: #5670a7;
+  color: #fff;
+}
+.position-class ul {
+  border-top: 1px solid #ccc;
+  padding: 5px 10px;
+}
+.position-class ul li {
+  list-style: none;
+  position: relative;
+}
+.position-class ul li span {
+  position: absolute;
+  right: 40px;
+  top: 20px;
+  color: #e64c46;
 }
 html,
 body {

@@ -35,8 +35,8 @@ gulp.task('html',function(){
 
 gulp.task('json',function(){
 	gulp.src(app.srcPath + 'data/**/*.json')
-	.pipe(gulp.dest(app.devPath))
-	.pipe(gulp.dest(app.prdPath))
+	.pipe(gulp.dest(app.devPath + 'data'))
+	.pipe(gulp.dest(app.prdPath + 'data'))
 	.pipe($.connect.reload());
 });
 

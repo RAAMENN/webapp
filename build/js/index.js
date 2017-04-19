@@ -12,33 +12,56 @@ angular.module('app').config(['$stateProvider','$urlRouterProvider',function($st
 		url: '/position/:id',
 		templateUrl: 'view/position.html',
 		controller: 'positionCtrl'
+	}).state('company',{
+		url:'/company/:id',
+		templateUrl: 'view/company.html',
+		controller: 'companyCtrl'
 	});
 	$urlRouterProvider.otherwise('main');
 }]);
 'use strict';
 
-angular.module('app').controller('mainCtrl',['$scope',function($scope){
-	$scope.list=[{
-		id: '1',
-		name: 'sales reps',
-		imgSrc: 'image/company.jpeg',
-		companyName: 'sendo',
-		city: 'Shanghai',
-		industry: 'Manucature',
-		time: '2016-06-01 11:05'
-	},{
-		id: '2',
-		name: 'web developer',
-		imgSrc: 'image/company1.jpeg',
-		companyName: 'Sudo',
-		city: 'Tokyo',
-		industry: 'Internet',
-		time: '2016-06-04 01:05'
-	}];
+angular.module('app').controller('companyCtrl',['$http','$state','$scope',function($http,$state,$scope){
+	$http.get('data/company.json?id='+$state.params.id).then(doneCallback);
+	function doneCallback(response){
+		$scope.company = response.data;
+	}
 }]);
 'use strict';
 
-angular.module('app').controller('positionCtrl',['$scope',function($scope){
+angular.module('app').controller('mainCtrl',['$http','$scope',function($http,$scope){
+	$http.get('/data/positionList.json').then(doneCallbacks);
+
+	function doneCallbacks(response){
+		$scope.list=response.data;
+	}
+}]);
+'use strict';
+
+angular.module('app').controller('positionCtrl',['$q','$http','$state','$scope',function($q,$http,$state,$scope){
+	$scope.isLogin = false;
+	function getPosition(){
+		var def = $q.defer();
+		$http.get('/data/position.json?id='+$state.params.id).then(doneCallbacks,errorCallback);
+		function doneCallbacks(response){
+			$scope.position = response.data;
+			def.resolve(response.data);
+		}
+		function errorCallback(error){
+			def.reject(error);
+		}
+		return def.promise;
+	}
+	function getCompany(id){
+		$http.get('/data/company.json?id='+id).then(doneCallbacks);
+		function doneCallbacks(response){
+			$scope.company = response.data;
+		}
+	}
+	getPosition().then(function(obj){
+		getCompany(obj.companyId);
+		console.log(obj);
+	});
 	
 }]);
 'use strict';
@@ -47,7 +70,10 @@ angular.module('app').directive('appCompany',[function(){
 	return {
 		restrict: 'A',
 		replace: true,
-		templateUrl: 'view/template/company.html'
+		templateUrl: 'view/template/company.html',
+		scope: {
+			com: '='
+		}
 	};
 }]);
 'use strict';
@@ -87,11 +113,36 @@ angular.module('app').directive('appHeadBar',[function(){
 }]);
 'use strict';
 
+angular.module('app').directive('appPositionClass',[function(){
+	return {
+		restrict: 'A',
+		replace: true,
+		templateUrl: 'view/template/positionClass.html',
+		scope: {
+			com: '='
+		},
+		link: function($scope){
+			$scope.showPositionList = function(idx){
+				$scope.positionList = $scope.com.positionClass[idx].positionList;
+				$scope.isActive = idx;
+			};
+			$scope.$watch('com',function(newVal){
+				if(newVal) $scope.showPositionList(0);
+			});
+		}
+	};
+}]);
+'use strict';
+
 angular.module('app').directive('appPositionInfo',[function(){
 	return{
 		restrict: 'A',
 		replace: true,
 		templateUrl: 'view/template/positionInfo.html',
+		scope: {
+			isLogin: '=',
+			position: '='
+		}
 	};
 }]);
 'use strict';
